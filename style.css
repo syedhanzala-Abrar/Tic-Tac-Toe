@@ -58,12 +58,12 @@ nav ul{
     display: none;
 }
 
-.br-0{
-    border-right: 0;
-}
-
 .bl-0{
     border-left: 0;
+}
+
+.br-0{
+    border-right: 0;
 }
 
 .bb-0{
